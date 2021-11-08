@@ -4,4 +4,5 @@ class  Component{
     console.log('render component');
   }
 }
+
 exports.Component = Component;

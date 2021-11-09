@@ -22,5 +22,8 @@
   "homepage": "https://github.com/dominovocat/Node#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.62.1"
   }
 }

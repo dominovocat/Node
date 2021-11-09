@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "My First project with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominovocat/Node.git"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "I am",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominovocat/Node/issues"
+  },
+  "homepage": "https://github.com/dominovocat/Node#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

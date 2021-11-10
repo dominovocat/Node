@@ -6,4 +6,5 @@ class Component {
     console.log('render')
   }
 }
-module.exports = Component;
+// module.exports = Component;
+export default Component;
